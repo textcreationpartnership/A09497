@@ -126,7 +126,10 @@
             </p>
          </div>
          <div type="treatise">
-            <figure/>
+            <p>
+               <pb facs="tcp:11353:2"/>
+               <figure/>
+            </p>
             <pb facs="tcp:11353:2" rendition="simple:additions"/>
             <p>¶Here begynneth a ryght profytable treatyse co<g ref="char:cmbAbbrStroke">̄</g>
                <g ref="char:EOLhyphen"/>pendiously drawen out of many &amp; dyuers wrytyn<g ref="char:EOLunhyphen"/>ges of holy men / to dyspose men to be vertuously occupyed in theyr myndes &amp; prayers. And declared the Pater noster. Aue. &amp; Credo. in our moder ton<g ref="char:EOLhyphen"/>ge with many other deuoute prayers in lyke wyse medefull to religyous people as to the laye people with many other moost holsomest Instruccyons / as here after it shall folowe.</p>
